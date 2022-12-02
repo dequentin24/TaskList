@@ -1,4 +1,4 @@
-# My Pokemon App!
+# TaskList App!
 
 # Why did I make this app?
 I made this because I wanted to learn how to efficently add and delete data in a real world setting. This poject was also a test
