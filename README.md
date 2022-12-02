@@ -20,7 +20,7 @@ To deploy this project run
 ```
 
 Note: This project is being hosted on cloudflare so you can view 
-it [here](tasklist-2gt.pages.dev)
+it [here](https://tasklist-2gt.pages.dev)
 
 
 
